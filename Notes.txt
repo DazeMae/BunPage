@@ -1,0 +1,2 @@
+personal project i made while going through a scrimba lesson 
+-bun
